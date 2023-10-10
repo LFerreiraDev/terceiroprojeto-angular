@@ -8,9 +8,4 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'terceiro-projeto';
 
-  mostrar = true;
-
-  inverter(){
-    this.mostrar = !this.mostrar;
-  }
 }
